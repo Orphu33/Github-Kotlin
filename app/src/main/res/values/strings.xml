@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GitHub Kotlin</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="last_update">Last Update:</string>
+    <string name="forks">Forks</string>
+    <string name="stars">Stars</string>
+    <string name="issues">Issues</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="language">Language</string>
+    <string name="created">Created</string>
+    <string name="updated">Updated</string>
+    <string name="owner">Owner</string>
+</resources>
